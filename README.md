@@ -7,7 +7,7 @@ Alternatively, the project can be explored via spatial.io (https://spatial.io) w
     
 An image of the virtual project can be seen:  
   
-![image](https://github.com/benshen4/Assignment2/assets/147525103/d6670b4f-a1ef-461a-8b17-1b2003809e63) \
+![image](https://github.com/benshen4/Assignment2/assets/147525103/d6670b4f-a1ef-461a-8b17-1b2003809e63)     
   
 Details & Credits:  
 Auther: Ben Shenolikar  
